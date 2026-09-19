@@ -9,4 +9,5 @@ class Test {
     Kiir123() {
         console.log('123');
     }
+    Add2Num = (a,b) => a + b;
 }
