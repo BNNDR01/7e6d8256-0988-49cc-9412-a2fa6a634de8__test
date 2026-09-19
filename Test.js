@@ -5,4 +5,8 @@ class Test {
     constructor() {
         this.index = Test.#_index++;
     }
+    
+    Kiir123() {
+        console.log('321');
+    }
 }
