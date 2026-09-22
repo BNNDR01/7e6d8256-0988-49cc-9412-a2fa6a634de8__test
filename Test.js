@@ -14,11 +14,12 @@ class Test
     }
 
     Osszeadom() {
-        console.log(`Ez egy összeadás ${a + b}`)
+        console.log(`Ez egy ï¿½sszeadï¿½s ${a + b}`)
     }
     
 
     
 
 
+    Add2Num = (a,b) => a + b;
 }
