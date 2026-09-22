@@ -9,4 +9,8 @@ class Test {
     Kiir123() {
         console.log('123');
     }
+	
+	Alert123() {
+		alert('123');
+	}
 }
