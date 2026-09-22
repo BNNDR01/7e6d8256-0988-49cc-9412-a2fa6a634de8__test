@@ -12,6 +12,10 @@ class Test
     Kiir123() {
         console.log('123');
     }
+	
+	Alert123() {
+		alert('123');
+	}
 
     Osszeadom() {
         console.log(`Ez egy �sszead�s ${a + b}`)
